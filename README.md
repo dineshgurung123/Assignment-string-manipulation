@@ -24,3 +24,4 @@
 3. Converts the trimmed spell to lowercase.
 4. Compare the cleaned-up spell with the correct spell `"abracadabra"`.
 5. Print a message indicating if the spell is correct or if the wizarding world is still at risk!
+/
